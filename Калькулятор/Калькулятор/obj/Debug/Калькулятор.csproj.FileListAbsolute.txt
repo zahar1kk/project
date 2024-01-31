@@ -1,0 +1,7 @@
+D:\проетв vs\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe.config
+D:\проетв vs\Калькулятор\Калькулятор\bin\Debug\Калькулятор.exe
+D:\проетв vs\Калькулятор\Калькулятор\bin\Debug\Калькулятор.pdb
+D:\проетв vs\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.AssemblyReference.cache
+D:\проетв vs\Калькулятор\Калькулятор\obj\Debug\Калькулятор.csproj.CoreCompileInputs.cache
+D:\проетв vs\Калькулятор\Калькулятор\obj\Debug\Калькулятор.exe
+D:\проетв vs\Калькулятор\Калькулятор\obj\Debug\Калькулятор.pdb
