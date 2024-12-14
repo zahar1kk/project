@@ -1,0 +1,10 @@
+D:\курсач\гонки\гонки\bin\Debug\гонки.exe.config
+D:\курсач\гонки\гонки\bin\Debug\гонки.exe
+D:\курсач\гонки\гонки\bin\Debug\гонки.pdb
+D:\курсач\гонки\гонки\obj\Debug\гонки.csproj.AssemblyReference.cache
+D:\курсач\гонки\гонки\obj\Debug\гонки.Form1.resources
+D:\курсач\гонки\гонки\obj\Debug\гонки.Properties.Resources.resources
+D:\курсач\гонки\гонки\obj\Debug\гонки.csproj.GenerateResource.cache
+D:\курсач\гонки\гонки\obj\Debug\гонки.csproj.CoreCompileInputs.cache
+D:\курсач\гонки\гонки\obj\Debug\гонки.exe
+D:\курсач\гонки\гонки\obj\Debug\гонки.pdb
